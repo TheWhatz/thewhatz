@@ -45,3 +45,5 @@
 <h3 align="center">Thanks You 🙏</h3>
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=thewhatz&color=dc143c&label=Profile+Views&abbreviated=true" alt="profile-count"/></p>
+
+<br/>
