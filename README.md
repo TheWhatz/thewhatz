@@ -3,7 +3,6 @@
 <br/>
 
 <p align="center">💻 I’m a Full-Stack Developer</p>
-<p align="center">🌟 Currenly working at <a href="https://www.lhbank.co.th/en/">LH Bank</a></p>
 <p align="center">🎶 Hobbies: Listening to music</p>
 <p align="center">😄 I love to coding</p>
 <p align="center">⚡ Fun fact: Have to touch some grass</p>
@@ -16,7 +15,10 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=bootstrap,ts,js,angular,react,html,css" /></p>
 
 <h3 align="center">Backend</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,spring,java,jenkins,redhat" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,spring,java" /></p>
+
+<h3 align="center">Devops</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=jenkins,redhat" /></p>
 
 <h3 align="center">Database</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" /></p>
